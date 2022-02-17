@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">temp_converter</string>
+
+
+    <string name="convert">Convert</string>
+    <string name="fahrenheit">Fahrenheit:</string>
+    <string name="celsius">Celsius:</string>
 </resources>
